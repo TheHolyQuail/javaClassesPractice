@@ -1,4 +1,5 @@
 public class Runner {
+    //a rectangle
     public static Rectangle golden = new Rectangle(2, 6);
     public static void main(String[] args) {
         System.out.println(golden.getDiagonal());
